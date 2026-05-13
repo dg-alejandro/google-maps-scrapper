@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import json; data=json.load\\(open\\('c:/Users/Aleja/Desktop/PROGRAMAS/$$$$$$/tech/google-maps-scrapper/output/peluquerias_en_santiago_de_compostela_2026-04-01.json'\\)\\); print\\(len\\(data\\)\\)\")",
+      "Bash(node -e \"const d=require\\('./output/peluquerias_en_santiago_de_compostela_2026-04-01.json'\\); console.log\\(d.length\\)\")",
+      "Bash(node -e \"const d=require\\('./output/peluquerias_en_santiago_de_compostela_2026-03-31.json'\\); console.log\\(d.length\\)\")"
+    ]
+  }
+}

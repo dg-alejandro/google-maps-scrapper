@@ -1,0 +1,8 @@
+# Environment variables — never commit the API key
+.env
+
+# Generated output — not part of the source code
+output/
+
+# Node dependencies (if you add any in the future)
+node_modules/
